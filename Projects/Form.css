@@ -1,0 +1,49 @@
+.form {
+  margin-top: 10px;
+}
+
+.form div {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.form label {
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+
+.form input {
+  padding: 8px;
+  padding-right: 100px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.form input::placeholder {
+  font-size: 1.1em;
+}
+
+.form select {
+  padding: 8px;
+  border: none;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.form .botao {
+  background-color: black;
+  color: white;
+  padding: 13px 0px;
+  width: 45%;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form .botao:hover {
+  color: rgb(255, 195, 0);
+}

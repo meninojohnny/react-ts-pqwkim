@@ -1,0 +1,31 @@
+.body {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  padding: 10px 20px;
+  font-size: 15px;
+}
+
+.body .img {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFt5_NEmOGl4Sw1x7_4YX97JPUkObn5xhh0Xxoy-FHXoEOXZ2VJ69GsPCgQwKwRobiwvN4muU_neA5VTV1Jm3aP0-9osTNgMavfo8HtnBcxJinObKIv_ff74cnogq_hGvcfX-XOyOTwcgnIjlevG-RkMX0Ah5j3ZDq7Xp-D6lhPqHXg2MnNtKfuQ_WA/s128/moeda%20(2).png');
+  background-size: cover;
+}
+
+.menu {
+  display: flex;
+  gap: 15px;
+}
+
+.menu a:hover {
+  color: rgb(255, 195, 0);
+}
+
+.menu a:hover {
+  cursor: pointer;
+}

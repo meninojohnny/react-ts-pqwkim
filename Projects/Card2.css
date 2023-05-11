@@ -1,0 +1,39 @@
+.Card2 {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.Card2 h2 {
+  background-color: black;
+  padding: 2px;
+  color: rgb(255, 195, 0);
+  padding-left: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.Card2 h3 {
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+
+.Card2 h3 span {
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.Card2 button {
+  display: flex;
+  align-items: center;
+  padding: 5px 15px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+.Card2 img {
+  width: 12px;
+  height: 12px;
+}
+

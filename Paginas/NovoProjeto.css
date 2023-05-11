@@ -1,0 +1,16 @@
+.NovoProjeto {
+  display: block;
+  width: 350px;
+  margin: auto;
+  /*flex-direction: column;
+  justify-content: center;
+  align-items: center;*/
+}
+
+.NovoProjeto h1 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+.NovoProjeto p {
+}

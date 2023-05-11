@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.footer ul {
+  display: flex;
+  list-style-type: none;
+  gap: 20px;
+}

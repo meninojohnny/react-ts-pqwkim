@@ -1,0 +1,37 @@
+.Projetos {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.Projetos .d1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.Projetos h1 {
+}
+
+.Projetos .d1 .bntCriar {
+  padding: 12px 30px;
+  color: white;
+  background-color: black;
+  border: none;
+  font-size: 1em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Projetos .d1 .bntCriar:hover {
+  color: rgb(255, 195, 0);
+}
+
+.Projetos .d2 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 20px;
+}
